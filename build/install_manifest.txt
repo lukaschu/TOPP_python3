@@ -1,0 +1,11 @@
+/usr/local/lib/python3/dist-packages/TOPP/TOPPbindings.so
+/usr/local/lib/python3/dist-packages/TOPP/Bimanual.py
+/usr/local/lib/python3/dist-packages/TOPP/ClosedChain.py
+/usr/local/lib/python3/dist-packages/TOPP/Errors.py
+/usr/local/lib/python3/dist-packages/TOPP/QuadraticConstraints.py
+/usr/local/lib/python3/dist-packages/TOPP/TOPPopenravepy.py
+/usr/local/lib/python3/dist-packages/TOPP/TOPPpy.py
+/usr/local/lib/python3/dist-packages/TOPP/TorqueLimits.py
+/usr/local/lib/python3/dist-packages/TOPP/Trajectory.py
+/usr/local/lib/python3/dist-packages/TOPP/Utilities.py
+/usr/local/lib/python3/dist-packages/TOPP/__init__.py
